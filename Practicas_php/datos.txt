@@ -1,0 +1,31 @@
+
+
+Nombre: Laura
+Dirección: Patria libre
+Pizzas seleccionadas:
+Jamon y Queso: 1
+Napolitana: 3
+
+--------------------------------------------------
+
+Nombre: Jose
+Dirección: Colonia Hernandez
+Pizzas seleccionadas:
+Jamon y Queso: 2
+Napolitana: 1
+
+--------------------------------------------------
+
+Nombre: Hilda
+Dirección: Colonia Vicente
+Pizzas seleccionadas:
+Jamon y Queso: 10
+Napolitana: 1
+
+--------------------------------------------------
+
+Nombre: Laura
+Dirección: Colonia Hidalgo
+Pizzas seleccionadas:
+Jamon y Queso: 1
+Mozzarella: 1
